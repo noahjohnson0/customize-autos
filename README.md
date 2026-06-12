@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/logo.png" alt="customize-autos" width="200">
+</p>
+
 # customize.autos
 
 A Next.js B2C utility that allows users to upload a picture of their car and customize it using AI-powered image editing via Google's Gemini API (Gemini 2.5 Flash Image, also known as "nano banana").
@@ -95,3 +99,7 @@ The integration uses the official `@google/generative-ai` SDK. For more informat
 ## License
 
 MIT
+
+## Screenshot
+
+![customize-autos screenshot](docs/assets/screenshot.png)
