@@ -1,11 +1,14 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/logo-dark.png">
-    <img src="docs/assets/logo-light.png" alt="customize-autos" width="200">
-  </picture>
-</p>
-
-# customize.autos
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="220" valign="middle">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="docs/assets/logo-dark.png">
+<img src="docs/assets/logo-light.png" alt="customize-autos" width="200">
+</picture>
+</td>
+<td valign="middle"><h1>C&nbsp;U&nbsp;S&nbsp;T&nbsp;O&nbsp;M&nbsp;I&nbsp;Z&nbsp;E &nbsp; A&nbsp;U&nbsp;T&nbsp;O&nbsp;S</h1></td>
+</tr>
+</table>
 
 A Next.js B2C utility that allows users to upload a picture of their car and customize it using AI-powered image editing via Google's Gemini API (Gemini 2.5 Flash Image, also known as "nano banana").
 
